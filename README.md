@@ -1,6 +1,6 @@
-# Hi there, I'm Kgomotson! 👋
+# Hi there, I'm Kgomotso! 👋
 
-I'm a second-year Computer Science student passionate about data analysis and data processing. With hands-on experience in data analysis through a traineeship, I'm continually seeking new ways to extract insights and tell stories with data.
+I'm a second-year Computer Science student passionate about data analysis. With hands-on experience in data analysis through a traineeship and a role in data processing, I'm continually seeking new ways to extract insights and tell stories with data.
 
 ## 👩‍💻 Technical Skills
 
