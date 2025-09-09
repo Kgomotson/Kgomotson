@@ -1,12 +1,12 @@
 # Hi there, I'm Kgomotso! 👋
 
-I'm a second-year Computer Science student passionate about data analysis. With hands-on experience in data analysis through a traineeship and a role in data processing, I'm continually seeking new opportunities to learn and grow.
+I'm a second-year Computer Science student passionate tech. With hands-on experience in data analysisand software development through a traineeship and a role in data processing, I'm continually seeking new opportunities to learn and grow.
 
 ## 👩‍💻 Technical Skills
 
-- **Languages:** SQL, Python, C++, Java (basic)
+- **Languages:** SQL, Python, C++, Java (basic), C++
 - **Data Tools:** Power BI, Advanced Excel
-- **Interests:** Data Analysis, Data Visualization, Exploratory Data Analysis
+
 
 ## 🚀 Featured Projects
 
