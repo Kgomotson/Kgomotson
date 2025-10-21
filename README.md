@@ -1,6 +1,6 @@
 # Hi there, I'm Kgomotso! 👋
 
-I'm a second-year Computer Science student passionate tech. With hands-on experience in data analysisand software development through a traineeship and a role in data processing, I'm continually seeking new opportunities to learn and grow.
+I'm a second-year Computer Science student with a passion tech and data. With hands-on experience in data analytics and software development through a traineeship and a role in data processing, I'm continually seeking new opportunities to learn and grow.
 
 ## 👩‍💻 Technical Skills
 
@@ -27,7 +27,7 @@ I'm a second-year Computer Science student passionate tech. With hands-on experi
 
 ## 🌱 Currently Learning
 
-I'm always looking to expand my knowledge—especially in data analysis and visualization tools. I'm committed to continuous improvement and growth.
+I'm always looking to expand my knowledge and I'm committed to continuous improvement and growth.
 
 > **Motto:** Keep improving!
 
